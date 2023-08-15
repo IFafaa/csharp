@@ -1,0 +1,15 @@
+C:\study\csharp\produtoEstoque\produtoEstoque\bin\Debug\net6.0\produtoEstoque.exe
+C:\study\csharp\produtoEstoque\produtoEstoque\bin\Debug\net6.0\produtoEstoque.deps.json
+C:\study\csharp\produtoEstoque\produtoEstoque\bin\Debug\net6.0\produtoEstoque.runtimeconfig.json
+C:\study\csharp\produtoEstoque\produtoEstoque\bin\Debug\net6.0\produtoEstoque.dll
+C:\study\csharp\produtoEstoque\produtoEstoque\bin\Debug\net6.0\produtoEstoque.pdb
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.csproj.AssemblyReference.cache
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.AssemblyInfoInputs.cache
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.AssemblyInfo.cs
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.csproj.CoreCompileInputs.cache
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.dll
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\refint\produtoEstoque.dll
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.pdb
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\produtoEstoque.genruntimeconfig.cache
+C:\study\csharp\produtoEstoque\produtoEstoque\obj\Debug\net6.0\ref\produtoEstoque.dll

@@ -1,0 +1,15 @@
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\bin\Debug\net6.0\PagamentoParcelaExercicio.exe
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\bin\Debug\net6.0\PagamentoParcelaExercicio.deps.json
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\bin\Debug\net6.0\PagamentoParcelaExercicio.runtimeconfig.json
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\bin\Debug\net6.0\PagamentoParcelaExercicio.dll
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\bin\Debug\net6.0\PagamentoParcelaExercicio.pdb
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.csproj.AssemblyReference.cache
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.AssemblyInfoInputs.cache
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.AssemblyInfo.cs
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.csproj.CoreCompileInputs.cache
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.dll
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\refint\PagamentoParcelaExercicio.dll
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.pdb
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\PagamentoParcelaExercicio.genruntimeconfig.cache
+C:\study\csharp\PagamentoParcelaExercicio\PagamentoParcelaExercicio\obj\Debug\net6.0\ref\PagamentoParcelaExercicio.dll

@@ -1,0 +1,15 @@
+C:\study\csharp\ShopSystem\ShopSystem\bin\Debug\net6.0\ShopSystem.exe
+C:\study\csharp\ShopSystem\ShopSystem\bin\Debug\net6.0\ShopSystem.deps.json
+C:\study\csharp\ShopSystem\ShopSystem\bin\Debug\net6.0\ShopSystem.runtimeconfig.json
+C:\study\csharp\ShopSystem\ShopSystem\bin\Debug\net6.0\ShopSystem.dll
+C:\study\csharp\ShopSystem\ShopSystem\bin\Debug\net6.0\ShopSystem.pdb
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.csproj.AssemblyReference.cache
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.AssemblyInfoInputs.cache
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.AssemblyInfo.cs
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.csproj.CoreCompileInputs.cache
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.dll
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\refint\ShopSystem.dll
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.pdb
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ShopSystem.genruntimeconfig.cache
+C:\study\csharp\ShopSystem\ShopSystem\obj\Debug\net6.0\ref\ShopSystem.dll

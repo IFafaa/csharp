@@ -1,0 +1,15 @@
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\bin\Debug\net6.0\ExerciciosFuncionariosHeranca.exe
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\bin\Debug\net6.0\ExerciciosFuncionariosHeranca.deps.json
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\bin\Debug\net6.0\ExerciciosFuncionariosHeranca.runtimeconfig.json
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\bin\Debug\net6.0\ExerciciosFuncionariosHeranca.dll
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\bin\Debug\net6.0\ExerciciosFuncionariosHeranca.pdb
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.csproj.AssemblyReference.cache
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.AssemblyInfoInputs.cache
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.AssemblyInfo.cs
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.csproj.CoreCompileInputs.cache
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.dll
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\refint\ExerciciosFuncionariosHeranca.dll
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.pdb
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ExerciciosFuncionariosHeranca.genruntimeconfig.cache
+C:\study\csharp\ExerciciosFuncionariosHeranca\ExerciciosFuncionariosHeranca\obj\Debug\net6.0\ref\ExerciciosFuncionariosHeranca.dll

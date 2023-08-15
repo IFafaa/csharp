@@ -1,0 +1,15 @@
+C:\study\csharp\GenericsPrint\GenericsPrint\bin\Debug\net6.0\GenericsPrint.exe
+C:\study\csharp\GenericsPrint\GenericsPrint\bin\Debug\net6.0\GenericsPrint.deps.json
+C:\study\csharp\GenericsPrint\GenericsPrint\bin\Debug\net6.0\GenericsPrint.runtimeconfig.json
+C:\study\csharp\GenericsPrint\GenericsPrint\bin\Debug\net6.0\GenericsPrint.dll
+C:\study\csharp\GenericsPrint\GenericsPrint\bin\Debug\net6.0\GenericsPrint.pdb
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.csproj.AssemblyReference.cache
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.AssemblyInfoInputs.cache
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.AssemblyInfo.cs
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.csproj.CoreCompileInputs.cache
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.dll
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\refint\GenericsPrint.dll
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.pdb
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\GenericsPrint.genruntimeconfig.cache
+C:\study\csharp\GenericsPrint\GenericsPrint\obj\Debug\net6.0\ref\GenericsPrint.dll

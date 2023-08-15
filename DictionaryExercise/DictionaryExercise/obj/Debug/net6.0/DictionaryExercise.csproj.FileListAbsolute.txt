@@ -1,0 +1,15 @@
+C:\study\csharp\DictionaryExercise\DictionaryExercise\bin\Debug\net6.0\DictionaryExercise.exe
+C:\study\csharp\DictionaryExercise\DictionaryExercise\bin\Debug\net6.0\DictionaryExercise.deps.json
+C:\study\csharp\DictionaryExercise\DictionaryExercise\bin\Debug\net6.0\DictionaryExercise.runtimeconfig.json
+C:\study\csharp\DictionaryExercise\DictionaryExercise\bin\Debug\net6.0\DictionaryExercise.dll
+C:\study\csharp\DictionaryExercise\DictionaryExercise\bin\Debug\net6.0\DictionaryExercise.pdb
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.csproj.AssemblyReference.cache
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.AssemblyInfoInputs.cache
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.AssemblyInfo.cs
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.csproj.CoreCompileInputs.cache
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.dll
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\refint\DictionaryExercise.dll
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.pdb
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\DictionaryExercise.genruntimeconfig.cache
+C:\study\csharp\DictionaryExercise\DictionaryExercise\obj\Debug\net6.0\ref\DictionaryExercise.dll

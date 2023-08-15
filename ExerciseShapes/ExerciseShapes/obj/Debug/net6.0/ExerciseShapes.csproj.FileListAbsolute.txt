@@ -1,0 +1,15 @@
+C:\study\csharp\ExerciseShapes\ExerciseShapes\bin\Debug\net6.0\ExerciseShapes.exe
+C:\study\csharp\ExerciseShapes\ExerciseShapes\bin\Debug\net6.0\ExerciseShapes.deps.json
+C:\study\csharp\ExerciseShapes\ExerciseShapes\bin\Debug\net6.0\ExerciseShapes.runtimeconfig.json
+C:\study\csharp\ExerciseShapes\ExerciseShapes\bin\Debug\net6.0\ExerciseShapes.dll
+C:\study\csharp\ExerciseShapes\ExerciseShapes\bin\Debug\net6.0\ExerciseShapes.pdb
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.csproj.AssemblyReference.cache
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.AssemblyInfoInputs.cache
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.AssemblyInfo.cs
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.csproj.CoreCompileInputs.cache
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.dll
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\refint\ExerciseShapes.dll
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.pdb
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ExerciseShapes.genruntimeconfig.cache
+C:\study\csharp\ExerciseShapes\ExerciseShapes\obj\Debug\net6.0\ref\ExerciseShapes.dll

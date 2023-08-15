@@ -1,0 +1,15 @@
+C:\study\csharp\studyingPOO\studyingPOO\bin\Debug\net6.0\studyingPOO.exe
+C:\study\csharp\studyingPOO\studyingPOO\bin\Debug\net6.0\studyingPOO.deps.json
+C:\study\csharp\studyingPOO\studyingPOO\bin\Debug\net6.0\studyingPOO.runtimeconfig.json
+C:\study\csharp\studyingPOO\studyingPOO\bin\Debug\net6.0\studyingPOO.dll
+C:\study\csharp\studyingPOO\studyingPOO\bin\Debug\net6.0\studyingPOO.pdb
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.csproj.AssemblyReference.cache
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.AssemblyInfoInputs.cache
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.AssemblyInfo.cs
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.csproj.CoreCompileInputs.cache
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.dll
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\refint\studyingPOO.dll
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.pdb
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\studyingPOO.genruntimeconfig.cache
+C:\study\csharp\studyingPOO\studyingPOO\obj\Debug\net6.0\ref\studyingPOO.dll

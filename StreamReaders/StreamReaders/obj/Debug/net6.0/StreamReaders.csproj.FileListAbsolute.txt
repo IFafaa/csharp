@@ -1,0 +1,15 @@
+C:\study\csharp\StreamReaders\StreamReaders\bin\Debug\net6.0\StreamReaders.exe
+C:\study\csharp\StreamReaders\StreamReaders\bin\Debug\net6.0\StreamReaders.deps.json
+C:\study\csharp\StreamReaders\StreamReaders\bin\Debug\net6.0\StreamReaders.runtimeconfig.json
+C:\study\csharp\StreamReaders\StreamReaders\bin\Debug\net6.0\StreamReaders.dll
+C:\study\csharp\StreamReaders\StreamReaders\bin\Debug\net6.0\StreamReaders.pdb
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.csproj.AssemblyReference.cache
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.AssemblyInfoInputs.cache
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.AssemblyInfo.cs
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.csproj.CoreCompileInputs.cache
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.dll
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\refint\StreamReaders.dll
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.pdb
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\StreamReaders.genruntimeconfig.cache
+C:\study\csharp\StreamReaders\StreamReaders\obj\Debug\net6.0\ref\StreamReaders.dll

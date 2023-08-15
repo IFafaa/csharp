@@ -1,0 +1,15 @@
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.csproj.AssemblyReference.cache
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.AssemblyInfoInputs.cache
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.AssemblyInfo.cs
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.csproj.CoreCompileInputs.cache
+C:\study\csharp\ContractsDepartment\ContractsDepartment\bin\Debug\net6.0\ContractsDepartment.exe
+C:\study\csharp\ContractsDepartment\ContractsDepartment\bin\Debug\net6.0\ContractsDepartment.deps.json
+C:\study\csharp\ContractsDepartment\ContractsDepartment\bin\Debug\net6.0\ContractsDepartment.runtimeconfig.json
+C:\study\csharp\ContractsDepartment\ContractsDepartment\bin\Debug\net6.0\ContractsDepartment.dll
+C:\study\csharp\ContractsDepartment\ContractsDepartment\bin\Debug\net6.0\ContractsDepartment.pdb
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.dll
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\refint\ContractsDepartment.dll
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.pdb
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ContractsDepartment.genruntimeconfig.cache
+C:\study\csharp\ContractsDepartment\ContractsDepartment\obj\Debug\net6.0\ref\ContractsDepartment.dll

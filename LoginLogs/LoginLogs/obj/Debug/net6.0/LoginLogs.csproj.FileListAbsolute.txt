@@ -1,0 +1,15 @@
+C:\study\csharp\LoginLogs\LoginLogs\bin\Debug\net6.0\LoginLogs.exe
+C:\study\csharp\LoginLogs\LoginLogs\bin\Debug\net6.0\LoginLogs.deps.json
+C:\study\csharp\LoginLogs\LoginLogs\bin\Debug\net6.0\LoginLogs.runtimeconfig.json
+C:\study\csharp\LoginLogs\LoginLogs\bin\Debug\net6.0\LoginLogs.dll
+C:\study\csharp\LoginLogs\LoginLogs\bin\Debug\net6.0\LoginLogs.pdb
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.csproj.AssemblyReference.cache
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.AssemblyInfoInputs.cache
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.AssemblyInfo.cs
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.csproj.CoreCompileInputs.cache
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.dll
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\refint\LoginLogs.dll
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.pdb
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\LoginLogs.genruntimeconfig.cache
+C:\study\csharp\LoginLogs\LoginLogs\obj\Debug\net6.0\ref\LoginLogs.dll

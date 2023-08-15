@@ -1,0 +1,15 @@
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\bin\Debug\net6.0\FuncionariosControleSistema.exe
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\bin\Debug\net6.0\FuncionariosControleSistema.deps.json
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\bin\Debug\net6.0\FuncionariosControleSistema.runtimeconfig.json
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\bin\Debug\net6.0\FuncionariosControleSistema.dll
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\bin\Debug\net6.0\FuncionariosControleSistema.pdb
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.csproj.AssemblyReference.cache
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.AssemblyInfoInputs.cache
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.AssemblyInfo.cs
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.csproj.CoreCompileInputs.cache
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.dll
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\refint\FuncionariosControleSistema.dll
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.pdb
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\FuncionariosControleSistema.genruntimeconfig.cache
+C:\study\csharp\FuncionariosControleSistema\FuncionariosControleSistema\obj\Debug\net6.0\ref\FuncionariosControleSistema.dll

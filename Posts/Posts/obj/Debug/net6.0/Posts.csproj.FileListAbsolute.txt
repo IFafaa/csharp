@@ -1,0 +1,15 @@
+C:\study\csharp\Posts\Posts\bin\Debug\net6.0\Posts.exe
+C:\study\csharp\Posts\Posts\bin\Debug\net6.0\Posts.deps.json
+C:\study\csharp\Posts\Posts\bin\Debug\net6.0\Posts.runtimeconfig.json
+C:\study\csharp\Posts\Posts\bin\Debug\net6.0\Posts.dll
+C:\study\csharp\Posts\Posts\bin\Debug\net6.0\Posts.pdb
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.csproj.AssemblyReference.cache
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.AssemblyInfoInputs.cache
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.AssemblyInfo.cs
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.csproj.CoreCompileInputs.cache
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.dll
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\refint\Posts.dll
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.pdb
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\Posts.genruntimeconfig.cache
+C:\study\csharp\Posts\Posts\obj\Debug\net6.0\ref\Posts.dll

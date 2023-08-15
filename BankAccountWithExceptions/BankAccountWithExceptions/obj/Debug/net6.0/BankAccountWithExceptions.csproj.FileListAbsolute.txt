@@ -1,0 +1,15 @@
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\bin\Debug\net6.0\BankAccountWithExceptions.exe
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\bin\Debug\net6.0\BankAccountWithExceptions.deps.json
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\bin\Debug\net6.0\BankAccountWithExceptions.runtimeconfig.json
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\bin\Debug\net6.0\BankAccountWithExceptions.dll
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\bin\Debug\net6.0\BankAccountWithExceptions.pdb
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.csproj.AssemblyReference.cache
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.AssemblyInfoInputs.cache
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.AssemblyInfo.cs
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.csproj.CoreCompileInputs.cache
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.dll
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\refint\BankAccountWithExceptions.dll
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.pdb
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\BankAccountWithExceptions.genruntimeconfig.cache
+C:\study\csharp\BankAccountWithExceptions\BankAccountWithExceptions\obj\Debug\net6.0\ref\BankAccountWithExceptions.dll

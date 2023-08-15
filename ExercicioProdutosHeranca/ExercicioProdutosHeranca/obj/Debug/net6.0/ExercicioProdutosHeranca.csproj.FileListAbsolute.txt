@@ -1,0 +1,15 @@
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\bin\Debug\net6.0\ExercicioProdutosHeranca.exe
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\bin\Debug\net6.0\ExercicioProdutosHeranca.deps.json
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\bin\Debug\net6.0\ExercicioProdutosHeranca.runtimeconfig.json
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\bin\Debug\net6.0\ExercicioProdutosHeranca.dll
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\bin\Debug\net6.0\ExercicioProdutosHeranca.pdb
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.csproj.AssemblyReference.cache
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.AssemblyInfoInputs.cache
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.AssemblyInfo.cs
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.csproj.CoreCompileInputs.cache
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.dll
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\refint\ExercicioProdutosHeranca.dll
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.pdb
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ExercicioProdutosHeranca.genruntimeconfig.cache
+C:\study\csharp\ExercicioProdutosHeranca\ExercicioProdutosHeranca\obj\Debug\net6.0\ref\ExercicioProdutosHeranca.dll

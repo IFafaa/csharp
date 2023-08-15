@@ -1,0 +1,15 @@
+C:\study\csharp\ArranjosVetores\ArranjosVetores\bin\Debug\net6.0\ArranjosVetores.exe
+C:\study\csharp\ArranjosVetores\ArranjosVetores\bin\Debug\net6.0\ArranjosVetores.deps.json
+C:\study\csharp\ArranjosVetores\ArranjosVetores\bin\Debug\net6.0\ArranjosVetores.runtimeconfig.json
+C:\study\csharp\ArranjosVetores\ArranjosVetores\bin\Debug\net6.0\ArranjosVetores.dll
+C:\study\csharp\ArranjosVetores\ArranjosVetores\bin\Debug\net6.0\ArranjosVetores.pdb
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.csproj.AssemblyReference.cache
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.AssemblyInfoInputs.cache
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.AssemblyInfo.cs
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.csproj.CoreCompileInputs.cache
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.dll
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\refint\ArranjosVetores.dll
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.pdb
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ArranjosVetores.genruntimeconfig.cache
+C:\study\csharp\ArranjosVetores\ArranjosVetores\obj\Debug\net6.0\ref\ArranjosVetores.dll

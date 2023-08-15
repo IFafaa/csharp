@@ -1,0 +1,15 @@
+C:\study\csharp\conversorDolar\conversorDolar\bin\Debug\net6.0\conversorDolar.exe
+C:\study\csharp\conversorDolar\conversorDolar\bin\Debug\net6.0\conversorDolar.deps.json
+C:\study\csharp\conversorDolar\conversorDolar\bin\Debug\net6.0\conversorDolar.runtimeconfig.json
+C:\study\csharp\conversorDolar\conversorDolar\bin\Debug\net6.0\conversorDolar.dll
+C:\study\csharp\conversorDolar\conversorDolar\bin\Debug\net6.0\conversorDolar.pdb
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.csproj.AssemblyReference.cache
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.AssemblyInfoInputs.cache
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.AssemblyInfo.cs
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.csproj.CoreCompileInputs.cache
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.dll
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\refint\conversorDolar.dll
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.pdb
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\conversorDolar.genruntimeconfig.cache
+C:\study\csharp\conversorDolar\conversorDolar\obj\Debug\net6.0\ref\conversorDolar.dll

@@ -1,0 +1,15 @@
+C:\study\csharp\Directorys\Directorys\bin\Debug\net6.0\Directorys.exe
+C:\study\csharp\Directorys\Directorys\bin\Debug\net6.0\Directorys.deps.json
+C:\study\csharp\Directorys\Directorys\bin\Debug\net6.0\Directorys.runtimeconfig.json
+C:\study\csharp\Directorys\Directorys\bin\Debug\net6.0\Directorys.dll
+C:\study\csharp\Directorys\Directorys\bin\Debug\net6.0\Directorys.pdb
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.csproj.AssemblyReference.cache
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.AssemblyInfoInputs.cache
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.AssemblyInfo.cs
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.csproj.CoreCompileInputs.cache
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.dll
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\refint\Directorys.dll
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.pdb
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\Directorys.genruntimeconfig.cache
+C:\study\csharp\Directorys\Directorys\obj\Debug\net6.0\ref\Directorys.dll

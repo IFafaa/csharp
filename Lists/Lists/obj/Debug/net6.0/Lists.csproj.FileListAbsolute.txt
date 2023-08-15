@@ -1,0 +1,15 @@
+C:\study\csharp\Lists\Lists\bin\Debug\net6.0\Lists.exe
+C:\study\csharp\Lists\Lists\bin\Debug\net6.0\Lists.deps.json
+C:\study\csharp\Lists\Lists\bin\Debug\net6.0\Lists.runtimeconfig.json
+C:\study\csharp\Lists\Lists\bin\Debug\net6.0\Lists.dll
+C:\study\csharp\Lists\Lists\bin\Debug\net6.0\Lists.pdb
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.csproj.AssemblyReference.cache
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfoInputs.cache
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.AssemblyInfo.cs
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.csproj.CoreCompileInputs.cache
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.dll
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\refint\Lists.dll
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.pdb
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\Lists.genruntimeconfig.cache
+C:\study\csharp\Lists\Lists\obj\Debug\net6.0\ref\Lists.dll

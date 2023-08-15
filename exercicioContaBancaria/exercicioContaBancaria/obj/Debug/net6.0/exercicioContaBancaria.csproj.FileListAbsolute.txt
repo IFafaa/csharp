@@ -1,0 +1,15 @@
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\bin\Debug\net6.0\exercicioContaBancaria.exe
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\bin\Debug\net6.0\exercicioContaBancaria.deps.json
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\bin\Debug\net6.0\exercicioContaBancaria.runtimeconfig.json
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\bin\Debug\net6.0\exercicioContaBancaria.dll
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\bin\Debug\net6.0\exercicioContaBancaria.pdb
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.csproj.AssemblyReference.cache
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.AssemblyInfoInputs.cache
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.AssemblyInfo.cs
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.csproj.CoreCompileInputs.cache
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.dll
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\refint\exercicioContaBancaria.dll
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.pdb
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\exercicioContaBancaria.genruntimeconfig.cache
+C:\study\csharp\exercicioContaBancaria\exercicioContaBancaria\obj\Debug\net6.0\ref\exercicioContaBancaria.dll

@@ -1,0 +1,15 @@
+C:\study\csharp\exerciciosOop\exerciciosOop\bin\Debug\net6.0\exerciciosOop.exe
+C:\study\csharp\exerciciosOop\exerciciosOop\bin\Debug\net6.0\exerciciosOop.deps.json
+C:\study\csharp\exerciciosOop\exerciciosOop\bin\Debug\net6.0\exerciciosOop.runtimeconfig.json
+C:\study\csharp\exerciciosOop\exerciciosOop\bin\Debug\net6.0\exerciciosOop.dll
+C:\study\csharp\exerciciosOop\exerciciosOop\bin\Debug\net6.0\exerciciosOop.pdb
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.csproj.AssemblyReference.cache
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.AssemblyInfoInputs.cache
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.AssemblyInfo.cs
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.csproj.CoreCompileInputs.cache
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.dll
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\refint\exerciciosOop.dll
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.pdb
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\exerciciosOop.genruntimeconfig.cache
+C:\study\csharp\exerciciosOop\exerciciosOop\obj\Debug\net6.0\ref\exerciciosOop.dll

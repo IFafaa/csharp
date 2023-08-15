@@ -1,0 +1,15 @@
+C:\study\csharp\Paths\Paths\bin\Debug\net6.0\Paths.exe
+C:\study\csharp\Paths\Paths\bin\Debug\net6.0\Paths.deps.json
+C:\study\csharp\Paths\Paths\bin\Debug\net6.0\Paths.runtimeconfig.json
+C:\study\csharp\Paths\Paths\bin\Debug\net6.0\Paths.dll
+C:\study\csharp\Paths\Paths\bin\Debug\net6.0\Paths.pdb
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.csproj.AssemblyReference.cache
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.AssemblyInfoInputs.cache
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.AssemblyInfo.cs
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.csproj.CoreCompileInputs.cache
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.dll
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\refint\Paths.dll
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.pdb
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\Paths.genruntimeconfig.cache
+C:\study\csharp\Paths\Paths\obj\Debug\net6.0\ref\Paths.dll

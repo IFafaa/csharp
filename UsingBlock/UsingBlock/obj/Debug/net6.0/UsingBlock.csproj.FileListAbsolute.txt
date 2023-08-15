@@ -1,0 +1,15 @@
+C:\study\csharp\UsingBlock\UsingBlock\bin\Debug\net6.0\UsingBlock.exe
+C:\study\csharp\UsingBlock\UsingBlock\bin\Debug\net6.0\UsingBlock.deps.json
+C:\study\csharp\UsingBlock\UsingBlock\bin\Debug\net6.0\UsingBlock.runtimeconfig.json
+C:\study\csharp\UsingBlock\UsingBlock\bin\Debug\net6.0\UsingBlock.dll
+C:\study\csharp\UsingBlock\UsingBlock\bin\Debug\net6.0\UsingBlock.pdb
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.csproj.AssemblyReference.cache
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfoInputs.cache
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.AssemblyInfo.cs
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.dll
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\refint\UsingBlock.dll
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.pdb
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\UsingBlock.genruntimeconfig.cache
+C:\study\csharp\UsingBlock\UsingBlock\obj\Debug\net6.0\ref\UsingBlock.dll

@@ -1,0 +1,15 @@
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\bin\Debug\net6.0\LocadoraDeAutosNoInteface.exe
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\bin\Debug\net6.0\LocadoraDeAutosNoInteface.deps.json
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\bin\Debug\net6.0\LocadoraDeAutosNoInteface.runtimeconfig.json
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\bin\Debug\net6.0\LocadoraDeAutosNoInteface.dll
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\bin\Debug\net6.0\LocadoraDeAutosNoInteface.pdb
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.csproj.AssemblyReference.cache
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.AssemblyInfoInputs.cache
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.AssemblyInfo.cs
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.csproj.CoreCompileInputs.cache
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.dll
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\refint\LocadoraDeAutosNoInteface.dll
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.pdb
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\LocadoraDeAutosNoInteface.genruntimeconfig.cache
+C:\study\csharp\LocadoraDeAutosNoInteface\LocadoraDeAutosNoInteface\obj\Debug\net6.0\ref\LocadoraDeAutosNoInteface.dll

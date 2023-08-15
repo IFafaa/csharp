@@ -1,0 +1,15 @@
+C:\study\csharp\OnlineCourses\OnlineCourses\bin\Debug\net6.0\OnlineCourses.exe
+C:\study\csharp\OnlineCourses\OnlineCourses\bin\Debug\net6.0\OnlineCourses.deps.json
+C:\study\csharp\OnlineCourses\OnlineCourses\bin\Debug\net6.0\OnlineCourses.runtimeconfig.json
+C:\study\csharp\OnlineCourses\OnlineCourses\bin\Debug\net6.0\OnlineCourses.dll
+C:\study\csharp\OnlineCourses\OnlineCourses\bin\Debug\net6.0\OnlineCourses.pdb
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.csproj.AssemblyReference.cache
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.AssemblyInfoInputs.cache
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.AssemblyInfo.cs
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.csproj.CoreCompileInputs.cache
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.dll
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\refint\OnlineCourses.dll
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.pdb
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\OnlineCourses.genruntimeconfig.cache
+C:\study\csharp\OnlineCourses\OnlineCourses\obj\Debug\net6.0\ref\OnlineCourses.dll

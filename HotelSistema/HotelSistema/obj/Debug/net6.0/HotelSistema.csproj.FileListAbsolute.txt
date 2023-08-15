@@ -1,0 +1,15 @@
+C:\study\csharp\HotelSistema\HotelSistema\bin\Debug\net6.0\HotelSistema.exe
+C:\study\csharp\HotelSistema\HotelSistema\bin\Debug\net6.0\HotelSistema.deps.json
+C:\study\csharp\HotelSistema\HotelSistema\bin\Debug\net6.0\HotelSistema.runtimeconfig.json
+C:\study\csharp\HotelSistema\HotelSistema\bin\Debug\net6.0\HotelSistema.dll
+C:\study\csharp\HotelSistema\HotelSistema\bin\Debug\net6.0\HotelSistema.pdb
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.csproj.AssemblyReference.cache
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.AssemblyInfoInputs.cache
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.AssemblyInfo.cs
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.csproj.CoreCompileInputs.cache
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.dll
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\refint\HotelSistema.dll
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.pdb
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\HotelSistema.genruntimeconfig.cache
+C:\study\csharp\HotelSistema\HotelSistema\obj\Debug\net6.0\ref\HotelSistema.dll
